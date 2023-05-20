@@ -1,0 +1,22 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "highlight.js": "^11.8.0",
+    "mark": "^0.10.0",
+    "marked": "^5.0.2",
+    "mavon-editor": "^2.10.4",
+    "vue-clipboard3": "^2.0.0",
+    "vue-codemirror": "^4.0.6",
+    "xlsx": "^0.18.5"
+  }
+}
