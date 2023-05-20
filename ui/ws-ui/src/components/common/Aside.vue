@@ -10,7 +10,7 @@
       text-color="#fff"
       active-text-color="#ffd04b"
     >
-      <h3>{{isCollapse?'婉舒':'婉舒CRM系统'}}</h3>
+      <h3>{{isCollapse?'PM':'PowerManager'}}</h3>
       <!--没有二级菜单-->
       <el-menu-item
         v-for="item in noChildren"
